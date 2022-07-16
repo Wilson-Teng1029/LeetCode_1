@@ -1,7 +1,7 @@
 # LeetCode1
 
-class Solution {
-public:
+class Solution {\n
+public:\n
     vector<int> twoSum(vector<int>& nums, int target) {
         vector<int> targetNums ;
         for ( int i = 0 ; i < nums.size() ; i ++ ) {
